@@ -1,1 +1,2 @@
-sample cconflict
+sample conflict 
+*additional text from GitHub browser*
