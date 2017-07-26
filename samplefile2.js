@@ -1,1 +1,1 @@
-more sample text
+more sample conflict
